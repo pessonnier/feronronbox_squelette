@@ -5,4 +5,5 @@ network={
 	ssid="Mi5s loic"
 	#psk="aaaaaaaa"
 	psk=30df4a44869a05a444546ae3c67a3b931f251f5651a9928c2a09cc0afc9aa24b
+	id_str="partage"
 }
